@@ -6,6 +6,6 @@ You have access to all of the goods you desire from your loved Brands
 Easy checkout process.
 
 On the Profile3
-Users can tells us about
+Users can tells us about:
 - hobbies
 - favourite websites
